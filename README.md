@@ -1,4 +1,4 @@
-# On-premises Active Directory Deployment in Azure Virtual Machines
+Active Directory Deployment in Azure Virtual Machines
 
 ![Microsoft Active Directory Logo](https://i.imgur.com/pU5A58S.png)
 
