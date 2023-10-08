@@ -1,4 +1,5 @@
-Active Directory Deployment in Azure Virtual Machines
+<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 ![Microsoft Active Directory Logo](https://i.imgur.com/pU5A58S.png)
 
