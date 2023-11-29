@@ -17,10 +17,6 @@ This tutorial provides a guide on how to deploy on-premises Active Directory wit
 - Windows Server 2022
 - Windows 10 (22H2)
 
-<h2>Video Demonstration</h2>
-
-- ### [How to Deploy on-premises Active Directory within Azure Virtual Machines](https://drive.google.com/file/d/11CHLY2jd5xKqcplNmbpM1vO99dYDDjzH/view?usp=drive_link)
-
 ## High-Level Deployment and Configuration Steps
 
 1. **Setup Resources in Azure**
